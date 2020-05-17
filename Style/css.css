@@ -8,7 +8,13 @@ body {
     border: 20px #003300 solid;
 }
 
+a, a:visited {
+
+    text-decoration: none;
+}
+
 body h1, h3 {
     background-color: #003300;
     color: #FFFFFF;
+    
 }

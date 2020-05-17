@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$database = 'book';
+$database = 'library';
 $username = 'root';
 $password = '';
 
